@@ -17,9 +17,9 @@ varying input types, like integers, float, double, making it very easy to call
 the methods. 
 
 
-To run this calculator app, import the project in to
+To run this calculator app, download ArtimeticOprations.zip file, import the project in to
 Eclipse, do a build, navigate to basicOperations package under src folder,
-right click on SimpleCalculator and click run as a java project. A java swing
+right click on SimpleCalculator.java class and click run as a java project. A java swing
 pop up window will appear to take inputs and when we hit the "=" sign
 the results should be displayed.
 
